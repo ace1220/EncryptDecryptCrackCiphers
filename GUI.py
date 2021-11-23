@@ -1,6 +1,10 @@
 from tkinter import *
 from tkinter import messagebox
-import pyperclip as cbt      ##clip board tools 
+import pyperclip as cbt      ##clip board tools
+'''
+Install through pip command:
+pip install pyperclip
+'''
 import datetime as record   ##imported timer to record times
 
 import CaesarV5 as CC   
